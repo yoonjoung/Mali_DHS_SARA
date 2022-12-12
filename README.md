@@ -1,7 +1,7 @@
-**Availability, Readiness, and Utilization of Services in Mali**
+**Availability, Readiness, and Utilization of Services in Mali**     
 See full report https://dhsprogram.com/pubs/pdf/FA136/FA136.pdf
 
-Data source: 
+Data sources: 
 1. Excel file which has extracted service readiness estimates from a report. *(THIS IS INCLUDED IN THE REPO)*    
 2. SARA facility-level dataset to for background characterisitcs of facilities at the regional level   
 2. DHS API indicator data   
