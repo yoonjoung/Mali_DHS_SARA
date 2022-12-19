@@ -2,10 +2,10 @@
 See full report https://dhsprogram.com/pubs/pdf/FA136/FA136.pdf
 
 Data sources: 
-1. Excel file which has extracted service readiness estimates from a report. *(THIS IS INCLUDED IN THE REPO)*    
-2. SARA facility-level dataset to for background characterisitcs of facilities at the regional level   
-2. DHS API indicator data   
-3. DHS IR and HR public data for background characterisitcs of population at the regional level   
+1. Excel file which has extracted service readiness estimates from a report. (THIS *IS* INCLUDED IN THE REPO)    
+2. SARA facility-level dataset to for background characterisitcs of facilities at the regional level (THIS *IS NOT* INCLUDED IN THE REPO)       
+2. DHS API indicator data (THIS IS PUBLICLY AVAILABLE, THUS NOT INCLUDED HERE)                
+3. DHS IR and HR public data for background characterisitcs of population at the regional level (THIS IS PUBLICLY AVAILABLE, THUS NOT INCLUDED HERE)     
 
 Stata do files:  
 1. API_Mali_DHS.do => this generates "API_Mali_DHS.dta".   
